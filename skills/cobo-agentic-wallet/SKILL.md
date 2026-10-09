@@ -18,6 +18,7 @@ description: "Create and manage agentic wallets with Cobo. Use for autonomous on
 | Pending approval, approve/reject, wallet_paired | [pending-approval.md](./references/pending-approval.md) |
 | Policy denial, 403, TRANSFER_LIMIT_EXCEEDED | [error-handling.md](./references/error-handling.md) |
 | SDK scripting, Python/TypeScript scripts, multi-step operations | [sdk-scripting.md](./references/sdk-scripting.md) |
+| A micro, per-call, or recurring payment where gas + a pact round-trip outweigh the call value | [nano-rail.md](./references/nano-rail.md) |
 
 ---
 

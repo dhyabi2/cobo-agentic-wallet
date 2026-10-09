@@ -3,6 +3,7 @@
 ## Runnable demos
 
 - [`direct_sdk.py`](./direct_sdk.py): canonical pact-first SDK flow (no LLM)
+- [`nano_two_rail.py`](./nano_two_rail.py): two-rail micro-payment decision (CAW pact rail vs feeless Nano/XNO rail); self-contained, offline, `--self-test`
 - [`agno_agent.py`](./agno_agent.py): Agno integration with native streaming output
 - [`crewai_agent.py`](./crewai_agent.py): CrewAI integration with a single operator agent
 - [`langchain_agent.py`](./langchain_agent.py): LangChain v1 integration with a narrow CAW tool surface
